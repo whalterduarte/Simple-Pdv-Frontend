@@ -107,4 +107,8 @@ Usar emojis nos commits pode tornar mais fácil identificar o propósito ou inte
 
 - Evite duplicação de código. **"DRY - Don't Repeat Yourself"** é um princípio fundamental de desenvolvimento de software.
 
+<<<<<<< HEAD
 Lembre-se, o objetivo é escrever código que seja limpo e fácil de entender. Isso não apenas torna o projeto mais gerenciável, mas também é uma ótima maneira de aprender e melhorar como desenvolvedor!
+=======
+Lembre-se, o objetivo é escrever código que seja limpo e fácil de entender. Isso não apenas torna o projeto mais gerenciável, mas também é uma ótima maneira de aprender e melhorar como desenvolvedor!
+>>>>>>> 12f75b26c4bd02bd03a2a504d57cd20a196acf37
